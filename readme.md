@@ -4,6 +4,8 @@
 
 ## :memo: Descrição
 Projeto 100% original e completamente desenvolvido por mim! Desde da prototipação, até o design, textos, identidade visual e o front-end além do JavaScript.
+Usei um sistema de Flexbox para alinhar tudo e alguns efeitos em JavaScript.
+O responsivo ainda está em construção!
 
 ## :wrench: Tecnologias utilizadas
 [![My Skills](https://skills.thijs.gg/icons?i=,html,css,js)](https://skills.thijs.gg)
